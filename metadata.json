@@ -1,0 +1,6 @@
+{
+  "name": "الفارس للمطابخ والديكور",
+  "description": "برنامج حساب وفواتير شركة الفارس للمطابخ التركية والديكور - إدخال الأصناف والكميات وحساب الإجمالي تلقائياً",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
